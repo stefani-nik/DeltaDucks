@@ -1,4 +1,6 @@
-﻿namespace DeltaDucks.Web
+﻿using DeltaDucks.Service.Services;
+
+namespace DeltaDucks.Web
 {
     using System.Reflection;
     using System.Web.Mvc;

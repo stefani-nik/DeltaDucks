@@ -26,8 +26,8 @@ namespace DeltaDucks.Data
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-            modelBuilder.Configurations.Add(new UserConfiguration());
-            modelBuilder.Configurations.Add(new LandmarkConfiguration());
+            modelBuilder.Configurations.Add(new UserConfig());
+            modelBuilder.Configurations.Add(new LandmarkConfig());
         }
        
     }
