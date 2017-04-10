@@ -1,4 +1,6 @@
-﻿namespace DeltaDucks.Web.App_Start
+﻿using DeltaDucks.Service.Services;
+
+namespace DeltaDucks.Web
 {
     using System.Reflection;
     using System.Web.Mvc;
@@ -6,7 +8,6 @@
     using Autofac.Integration.Mvc;
     using Data.Infrastructure;
     using Data.Repositories;
-    using Service;
 
     public class Bootstrapper
     {

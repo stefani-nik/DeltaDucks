@@ -17,7 +17,7 @@
         // Hardcode number 
         public override void Update(Landmark entity)
         {
-            entity.Number = 34 ;
+            entity.Number = 34;
             base.Update(entity);
         }
     }

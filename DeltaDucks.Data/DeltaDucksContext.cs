@@ -14,9 +14,9 @@ namespace DeltaDucks.Data
             Database.SetInitializer(new SeedData());
         }
 
-         public virtual DbSet<User> Users { get; set; }
+        public virtual DbSet<User> Users { get; set; }
         public virtual DbSet<Landmark> Landmarks { get; set; }
-        public virtual DbSet<Town>Towns { get; set; }
+        public virtual DbSet<Town> Towns { get; set; }
         public virtual DbSet<Location> Locations { get; set; }
 
 
@@ -27,9 +27,9 @@ namespace DeltaDucks.Data
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-            modelBuilder.Configurations.Add(new UserConfiguration());
-            modelBuilder.Configurations.Add(new LandmarkConfiguration());
+            modelBuilder.Configurations.Add(new UserConfig());
+            modelBuilder.Configurations.Add(new LandmarkConfig());
         }
-       
+
     }
 }
