@@ -15,9 +15,19 @@ namespace DeltaDucks.Web.Controllers
     {
         private readonly ILandmarkService _landmarkService;
 
+<<<<<<< HEAD
         public HomeController(ILandmarkService landmarkService)
         {
+<<<<<<< HEAD
             _landmarkService = landmarkService;
+=======
+            this._landmarkService = landmarkService;
+=======
+        public HomeController()
+        {
+            // add service object to _landmarkService here
+>>>>>>> d7713e7a9e6ad1e27839dc744e045cb4661d65e9
+>>>>>>> 8a5bd95cef1941d504cd5b5d3d448794adb35d00
         }
 
         public ActionResult Index()

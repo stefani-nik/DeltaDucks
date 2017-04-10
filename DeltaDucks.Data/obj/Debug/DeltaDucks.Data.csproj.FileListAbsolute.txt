@@ -10,6 +10,23 @@ C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Data\bi
 C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Data\obj\Debug\DeltaDucks.Data.csprojResolveAssemblyReference.cache
 C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Data\obj\Debug\DeltaDucks.Data.dll
 C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Data\obj\Debug\DeltaDucks.Data.pdb
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Data\bin\Debug\DeltaDucks.Data.dll.config
+C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Data\bin\Debug\DeltaDucks.Data.dll
+C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Data\bin\Debug\DeltaDucks.Data.pdb
+C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Data\bin\Debug\DeltaDucks.Models.dll
+C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Data\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Data\bin\Debug\DeltaDucks.Models.pdb
+C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Data\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Data\obj\Debug\DeltaDucks.Data.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Data\obj\Debug\DeltaDucks.Data.dll
+C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Data\obj\Debug\DeltaDucks.Data.pdb
+=======
+>>>>>>> 8a5bd95cef1941d504cd5b5d3d448794adb35d00
 D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Data\bin\Debug\DeltaDucks.Data.dll.config
 D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Data\bin\Debug\DeltaDucks.Data.dll
 D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Data\bin\Debug\DeltaDucks.Data.pdb
@@ -22,3 +39,7 @@ D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Data\bin\Debug\EntityFramework.Sq
 D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Data\obj\Debug\DeltaDucks.Data.csprojResolveAssemblyReference.cache
 D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Data\obj\Debug\DeltaDucks.Data.dll
 D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Data\obj\Debug\DeltaDucks.Data.pdb
+<<<<<<< HEAD
+=======
+>>>>>>> d7713e7a9e6ad1e27839dc744e045cb4661d65e9
+>>>>>>> 8a5bd95cef1941d504cd5b5d3d448794adb35d00

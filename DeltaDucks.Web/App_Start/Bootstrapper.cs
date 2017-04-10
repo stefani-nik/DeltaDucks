@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 ﻿using DeltaDucks.Service.Services;
 
 namespace DeltaDucks.Web
+=======
+﻿namespace DeltaDucks.Web
+>>>>>>> 8a5bd95cef1941d504cd5b5d3d448794adb35d00
 {
     using System.Reflection;
     using System.Web.Mvc;

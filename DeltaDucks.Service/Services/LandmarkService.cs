@@ -7,14 +7,14 @@ namespace DeltaDucks.Service.Services
 {
     public class LandmarkService : ILandmarkService
     {
-        private readonly ILandmarkRepository _landmarkRepository;
+        private readonly IRepository<Landmark> _landmarkRepository;
 
         // NOT USED YET 
         //private readonly IUnitOfWork _unitOfWork;
 
-        public LandmarkService(ILandmarkRepository landmarkRepository, IUnitOfWork unitOfWork)
+        public LandmarkService(IRepository<Landmark> irepository , IUnitOfWork unitOfWork)
         {
-            this._landmarkRepository = landmarkRepository;
+            this._landmarkRepository = irepository;
             //this._unitOfWork = unitOfWork;
         }
 
