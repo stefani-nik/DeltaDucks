@@ -10,3 +10,15 @@ C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Data\bi
 C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Data\obj\Debug\DeltaDucks.Data.csprojResolveAssemblyReference.cache
 C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Data\obj\Debug\DeltaDucks.Data.dll
 C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Data\obj\Debug\DeltaDucks.Data.pdb
+C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Data\bin\Debug\DeltaDucks.Data.dll.config
+C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Data\bin\Debug\DeltaDucks.Data.dll
+C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Data\bin\Debug\DeltaDucks.Data.pdb
+C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Data\bin\Debug\DeltaDucks.Models.dll
+C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Data\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Data\bin\Debug\DeltaDucks.Models.pdb
+C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Data\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Data\obj\Debug\DeltaDucks.Data.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Data\obj\Debug\DeltaDucks.Data.dll
+C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Data\obj\Debug\DeltaDucks.Data.pdb

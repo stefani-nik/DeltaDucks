@@ -11,7 +11,7 @@ namespace DeltaDucks.Data
         public DeltaDucksContext()
             : base("name=DeltaDucksContext")
         {
-            Database.SetInitializer(new DropCreateDatabaseAlways<DeltaDucksContext>());
+            Database.SetInitializer(new SeedData());
         }
 
          public virtual DbSet<User> Users { get; set; }
