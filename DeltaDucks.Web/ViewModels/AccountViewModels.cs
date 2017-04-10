@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace DeltaDucks.Web.Models
+namespace DeltaDucks.Web.ViewModels
 {
     public class ExternalLoginConfirmationViewModel
     {

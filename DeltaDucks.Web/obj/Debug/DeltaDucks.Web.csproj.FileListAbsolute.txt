@@ -90,6 +90,7 @@ C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Web\bin
 C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Web\obj\Debug\DeltaDucks.Web.dll
 C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Web\obj\Debug\DeltaDucks.Web.pdb
+<<<<<<< HEAD
 C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Web\bin\ApplicationInsights.config
 C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Web\bin\roslyn\csc.exe
 C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -182,3 +183,98 @@ C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Web\bin\Microsoft.Owin.Security.Micr
 C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Web\obj\Debug\DeltaDucks.Web.csprojResolveAssemblyReference.cache
 C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Web\obj\Debug\DeltaDucks.Web.dll
 C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Web\obj\Debug\DeltaDucks.Web.pdb
+=======
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\ApplicationInsights.config
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\roslyn\csc.exe
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\roslyn\vbc.exe
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\roslyn\VBCSCompiler.exe
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\DeltaDucks.Web.dll.config
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\DeltaDucks.Web.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\DeltaDucks.Web.pdb
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Antlr3.Runtime.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Autofac.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Autofac.Integration.Mvc.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\DeltaDucks.Data.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\DeltaDucks.Models.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\DeltaDucks.Service.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\EntityFramework.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\EntityFramework.SqlServer.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.AI.Web.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.ApplicationInsights.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.Owin.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.Owin.Security.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Newtonsoft.Json.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Owin.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\System.Web.Helpers.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\System.Web.Mvc.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\System.Web.Optimization.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\System.Web.Razor.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\System.Web.WebPages.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\System.Web.WebPages.Razor.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\WebGrease.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\DeltaDucks.Data.pdb
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\DeltaDucks.Data.dll.config
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\DeltaDucks.Models.pdb
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\DeltaDucks.Service.pdb
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Autofac.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Autofac.Integration.Mvc.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.AI.Web.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.ApplicationInsights.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\System.Web.Helpers.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\System.Web.Mvc.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\System.Web.Optimization.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\System.Web.Razor.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\System.Web.WebPages.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\System.Web.WebPages.Razor.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Antlr3.Runtime.pdb
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Newtonsoft.Json.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\EntityFramework.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\EntityFramework.SqlServer.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.Owin.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.Owin.Security.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\obj\Debug\DeltaDucks.Web.csprojResolveAssemblyReference.cache
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\obj\Debug\DeltaDucks.Web.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Web\obj\Debug\DeltaDucks.Web.pdb
+>>>>>>> d7713e7a9e6ad1e27839dc744e045cb4661d65e9

@@ -1,4 +1,4 @@
-﻿namespace DeltaDucks.Web.App_Start
+﻿namespace DeltaDucks.Web
 {
     using System.Reflection;
     using System.Web.Mvc;

@@ -4,9 +4,9 @@
     using System.Data.Entity.ModelConfiguration;
     using Models;
 
-    public class UserConfiguration : EntityTypeConfiguration<User>
+    public class UserConfig : EntityTypeConfiguration<User>
     {
-        public UserConfiguration()
+        public UserConfig()
         {
             ToTable("Users");
             Property(u => u.Name).IsRequired().HasMaxLength(20);

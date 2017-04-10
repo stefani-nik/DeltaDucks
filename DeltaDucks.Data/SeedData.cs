@@ -110,7 +110,7 @@ public class SeedData : DropCreateDatabaseAlways<DeltaDucksContext>
             {
               new Landmark
                {
-                   Name = "Музей \"Никола Вапцаровь\"",
+                   Name = "Музей \"Никола Вапцаров\"",
                    Number = 1
                    // Град Банско
                },

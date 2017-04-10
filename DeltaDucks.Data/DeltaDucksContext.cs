@@ -1,4 +1,3 @@
-using System.Collections.Generic;
 using DeltaDucks.Data.Configuration;
 
 namespace DeltaDucks.Data
