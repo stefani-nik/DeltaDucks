@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Service\bin\Debug\DeltaDucks.Service.dll
+C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Service\bin\Debug\DeltaDucks.Service.pdb
+C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Service\bin\Debug\DeltaDucks.Data.dll
+C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Service\bin\Debug\DeltaDucks.Models.dll
+C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Service\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Service\bin\Debug\DeltaDucks.Data.pdb
+C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Service\bin\Debug\DeltaDucks.Models.pdb
+C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Service\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Service\obj\Debug\DeltaDucks.Service.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Service\obj\Debug\DeltaDucks.Service.dll
+C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Service\obj\Debug\DeltaDucks.Service.pdb

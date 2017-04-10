@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Models\bin\Debug\DeltaDucks.Models.dll
+C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Models\bin\Debug\DeltaDucks.Models.pdb
+C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Models\obj\Debug\DeltaDucks.Models.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Models\obj\Debug\DeltaDucks.Models.dll
+C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Models\obj\Debug\DeltaDucks.Models.pdb
