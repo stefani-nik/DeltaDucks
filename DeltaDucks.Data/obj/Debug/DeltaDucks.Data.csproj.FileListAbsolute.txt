@@ -10,3 +10,15 @@ C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Data\bi
 C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Data\obj\Debug\DeltaDucks.Data.csprojResolveAssemblyReference.cache
 C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Data\obj\Debug\DeltaDucks.Data.dll
 C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Data\obj\Debug\DeltaDucks.Data.pdb
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Data\bin\Debug\DeltaDucks.Data.dll.config
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Data\bin\Debug\DeltaDucks.Data.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Data\bin\Debug\DeltaDucks.Data.pdb
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Data\bin\Debug\DeltaDucks.Models.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Data\bin\Debug\EntityFramework.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Data\bin\Debug\DeltaDucks.Models.pdb
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Data\bin\Debug\EntityFramework.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Data\obj\Debug\DeltaDucks.Data.csprojResolveAssemblyReference.cache
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Data\obj\Debug\DeltaDucks.Data.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Data\obj\Debug\DeltaDucks.Data.pdb

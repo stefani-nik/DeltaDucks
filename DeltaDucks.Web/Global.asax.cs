@@ -11,13 +11,13 @@ using DeltaDucks.Web.App_Start;
 
 namespace DeltaDucks.Web
 {
-    public class MvcApplication : System.Web.HttpApplication
+    public class MvcApplication : HttpApplication
     {
         protected void Application_Start()
         {
             //Initialize database 
             new DeltaDucksContext().Database.Initialize(true);
-           // Database.SetInitializer(new DropCreateDatabaseIfModelChanges<DeltaDucksContext>());
+            // Database.SetInitializer(new DropCreateDatabaseIfModelChanges<DeltaDucksContext>());
 
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);

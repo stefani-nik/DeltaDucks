@@ -9,3 +9,15 @@ C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Service
 C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Service\obj\Debug\DeltaDucks.Service.csprojResolveAssemblyReference.cache
 C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Service\obj\Debug\DeltaDucks.Service.dll
 C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Service\obj\Debug\DeltaDucks.Service.pdb
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Service\bin\Debug\DeltaDucks.Service.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Service\bin\Debug\DeltaDucks.Service.pdb
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Service\bin\Debug\DeltaDucks.Data.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Service\bin\Debug\DeltaDucks.Models.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Service\bin\Debug\EntityFramework.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Service\bin\Debug\DeltaDucks.Data.pdb
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Service\bin\Debug\DeltaDucks.Data.dll.config
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Service\bin\Debug\DeltaDucks.Models.pdb
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Service\bin\Debug\EntityFramework.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Service\obj\Debug\DeltaDucks.Service.csprojResolveAssemblyReference.cache
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Service\obj\Debug\DeltaDucks.Service.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Service\obj\Debug\DeltaDucks.Service.pdb

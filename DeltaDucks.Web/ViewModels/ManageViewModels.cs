@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNet.Identity;
 using Microsoft.Owin.Security;
 
-namespace DeltaDucks.Web.Models
+namespace DeltaDucks.Web.ViewModels
 {
     public class IndexViewModel
     {

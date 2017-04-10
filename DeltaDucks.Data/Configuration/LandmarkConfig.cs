@@ -3,10 +3,10 @@ using DeltaDucks.Models;
 
 namespace DeltaDucks.Data.Configuration
 {
-    public class LandmarkConfiguration : EntityTypeConfiguration<Landmark>
+    public class LandmarkConfig : EntityTypeConfiguration<Landmark>
     {
 
-        public LandmarkConfiguration()
+        public LandmarkConfig()
         {
             ToTable("Landmarks");
             Property(l => l.Name).IsRequired().HasMaxLength(100);

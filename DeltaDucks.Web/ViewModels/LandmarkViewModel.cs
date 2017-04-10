@@ -1,7 +1,4 @@
-﻿using System.Linq;
-using DeltaDucks.Data;
-
-namespace DeltaDucks.Web.Models
+﻿namespace DeltaDucks.Web.ViewModels
 {
     public class LandmarkViewModel
     {

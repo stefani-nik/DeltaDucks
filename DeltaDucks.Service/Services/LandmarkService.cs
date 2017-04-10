@@ -1,14 +1,10 @@
-﻿namespace DeltaDucks.Service
+﻿using DeltaDucks.Data.Infrastructure;
+using DeltaDucks.Data.Repositories;
+using DeltaDucks.Models;
+using DeltaDucks.Service.Interfaces;
+
+namespace DeltaDucks.Service.Services
 {
-    using Data.Infrastructure;
-    using Data.Repositories;
-    using Models;
-
-    public interface ILandmarkService
-    {
-        Landmark GetLandmarkById(int id);
-    }
-
     public class LandmarkService : ILandmarkService
     {
         private readonly ILandmarkRepository _landmarkRepository;

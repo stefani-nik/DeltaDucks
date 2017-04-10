@@ -51,8 +51,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Configuration\LandmarkConfiguration.cs" />
-    <Compile Include="Configuration\UserConfiguration.cs" />
+    <Compile Include="Configuration\LandmarkConfig.cs" />
+    <Compile Include="Configuration\UserConfig.cs" />
     <Compile Include="DeltaDucksContext.cs" />
     <Compile Include="Infrastructure\DbFactory.cs" />
     <Compile Include="Infrastructure\Disposable.cs" />
