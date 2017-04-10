@@ -1,3 +1,20 @@
+<<<<<<< HEAD
+=======
+C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Service\bin\Debug\DeltaDucks.Service.dll
+C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Service\bin\Debug\DeltaDucks.Service.pdb
+C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Service\bin\Debug\DeltaDucks.Data.dll
+C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Service\bin\Debug\DeltaDucks.Models.dll
+C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Service\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Service\bin\Debug\DeltaDucks.Data.pdb
+C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Service\bin\Debug\DeltaDucks.Models.pdb
+C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Service\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Service\obj\Debug\DeltaDucks.Service.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Service\obj\Debug\DeltaDucks.Service.dll
+C:\Users\User\Desktop\SoftUni\C#-DB\Entity\Project\DeltaDucks\DeltaDucks.Service\obj\Debug\DeltaDucks.Service.pdb
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 2cc19fa0b4eb16e9e5db0b1fcccba23b2aaf345c
 C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Service\bin\Debug\DeltaDucks.Service.dll
 C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Service\bin\Debug\DeltaDucks.Service.pdb
 C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Service\bin\Debug\DeltaDucks.Data.dll
@@ -9,3 +26,24 @@ C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Service\bin\Debug\EntityFramework.xm
 C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Service\obj\Debug\DeltaDucks.Service.csprojResolveAssemblyReference.cache
 C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Service\obj\Debug\DeltaDucks.Service.dll
 C:\Users\User\Desktop\DeltaDucks\DeltaDucks.Service\obj\Debug\DeltaDucks.Service.pdb
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 8a5bd95cef1941d504cd5b5d3d448794adb35d00
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Service\bin\Debug\DeltaDucks.Service.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Service\bin\Debug\DeltaDucks.Service.pdb
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Service\bin\Debug\DeltaDucks.Data.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Service\bin\Debug\DeltaDucks.Models.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Service\bin\Debug\EntityFramework.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Service\bin\Debug\DeltaDucks.Data.pdb
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Service\bin\Debug\DeltaDucks.Data.dll.config
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Service\bin\Debug\DeltaDucks.Models.pdb
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Service\bin\Debug\EntityFramework.xml
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Service\obj\Debug\DeltaDucks.Service.csprojResolveAssemblyReference.cache
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Service\obj\Debug\DeltaDucks.Service.dll
+D:\Programs\Github Repos\DeltaDucks\DeltaDucks.Service\obj\Debug\DeltaDucks.Service.pdb
+<<<<<<< HEAD
+=======
+>>>>>>> d7713e7a9e6ad1e27839dc744e045cb4661d65e9
+>>>>>>> 8a5bd95cef1941d504cd5b5d3d448794adb35d00
+>>>>>>> 2cc19fa0b4eb16e9e5db0b1fcccba23b2aaf345c
